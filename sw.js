@@ -1,8 +1,9 @@
-const CACHE_NAME = 'notes-v1';
+const CACHE_NAME = 'notes-v2';
 const ASSETS = [
     './',
     './index.html',
-    './manifest.json'
+    './manifest.json',
+    './icon.svg'
 ];
 
 // Install — cache all assets
